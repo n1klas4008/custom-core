@@ -12,6 +12,7 @@
     <modules>
         <module>logger</module>
         <module>runtime</module>
+        <module>sql</module>
     </modules>
 
     <properties>
